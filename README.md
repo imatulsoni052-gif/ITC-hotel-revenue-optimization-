@@ -8,7 +8,7 @@ This project focuses on analyzing the performance of luxury hotels under ITC usi
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to transform raw hotel data into **meaningful business insights** that can help stakeholders:
 - Optimize revenue
@@ -18,7 +18,7 @@ The goal of this project is to transform raw hotel data into **meaningful busine
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Analyze **Revenue, ADR & RevPAR performance**
 - Evaluate **Occupancy trends across cities**
@@ -28,14 +28,14 @@ The goal of this project is to transform raw hotel data into **meaningful busine
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - 📊 Power BI (Dashboard & Visualization)
 - 🧹 Data Cleaning & Transformation
 - 📈 DAX (Data Analysis Expressions)
 ---
 
-## 📊 Key Metrics Explained
+##  Key Metrics Explained
 
 - **ADR (Average Daily Rate):** ₹14.92K  
 - **RevPAR (Revenue per Available Room):** ₹7.35K  
@@ -44,7 +44,7 @@ The goal of this project is to transform raw hotel data into **meaningful busine
 
 ---
 
-## 📈 Dashboard Insights
+##  Dashboard Insights
 
 ### 💰 Revenue Performance
 - Total revenue exceeded **₹1.7B**
@@ -76,7 +76,7 @@ The goal of this project is to transform raw hotel data into **meaningful busine
 
 ---
 
-## 🔍 Key Business Insights
+##  Key Business Insights
 
 - 💡 Luxury rooms drive **higher revenue & longer stays**
 - 📉 High cancellation rate causing **major revenue leakage**
@@ -85,13 +85,13 @@ The goal of this project is to transform raw hotel data into **meaningful busine
 
 ---
 
-## 🧠 Strategic Recommendations
+##  Strategic Recommendations
 
-- ✅ Introduce **strict cancellation policies**
-- ✅ Offer **early booking incentives**
-- ✅ Focus marketing on **high-performing cities**
-- ✅ Improve utilization in **low-performing locations**
-- ✅ Target **premium customer segments**
+-  Introduce **strict cancellation policies**
+-  Offer **early booking incentives**
+-  Focus marketing on **high-performing cities**
+-  Improve utilization in **low-performing locations**
+-  Target **premium customer segments**
 
 ---
 
