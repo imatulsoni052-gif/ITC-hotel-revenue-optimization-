@@ -116,7 +116,7 @@ The goal of this project is to transform raw hotel data into **meaningful busine
 - 💼 Skilled in: Excel | SQL | Power BI  
 - 📧 Email: imatulsoni052@gmail.com  
 - 📞 Contact: 7987508468  
-
+- linkedin: www.linkedin.com/in/atul-soni-ab4638393
 ---
 
 ## ⭐ If you like this project
